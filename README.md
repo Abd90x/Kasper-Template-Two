@@ -39,4 +39,5 @@ Free Google font Open Sans
 Background images are from Desktopography
 Images for portfolio DesignSpiration
 Images for testimonials Behance
+# Copyright
 © Copyright 2014 Graphberry.All Rights Reserved.
