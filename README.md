@@ -1,10 +1,10 @@
 # Kasper-Template-Two
-## Kasper | Template Two Using HTML &amp; CSS Responsive Design
-# Introduction
+# Kasper | Template Two Using HTML &amp; CSS Responsive Design
+## Introduction
 
 Welcome to Kasper PSD template documentation.If you have any question,please fill free to Contact Us
 
-# FEATURES:
+## FEATURES:
 
 Single Page Design
 Fully Layered Adobe Photoshop PSD file
@@ -17,7 +17,7 @@ Fonts
 
 Please make sure to download and instal google font Open Sans or you will have problem to edit text
 
-# Template
+## Template
 
 Kasper is fully layered PSD template,every element is on one layer,gruped and organized
 
@@ -33,7 +33,7 @@ Template width is 1170pix.
 
 ## Credits
 
-# CREDITS:
+CREDITS:
 
 Free Google font Open Sans
 Background images are from Desktopography
